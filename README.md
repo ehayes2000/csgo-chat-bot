@@ -4,8 +4,9 @@
 
 This program will print a message to cs go chat everytime you get a headshot. This program only works in gamemodes with rounds.
 
-
 **Install Instructions (no python installed)** * *Recommened* *
+
+**All necissary files are included in wigs_plitters.zip**
 
 1. Download wig_splitters.zip and extract to desired install directory
 2. Open wig_splitters that was extracted from wig_splitters.zip
@@ -45,4 +46,4 @@ START steam://rungameid/730
 "python install dir" "wig_splitters.py dir" 
 
 
-4. To change the icon create a shortcut to the CSGO.bat, download the csgo-icon included (csgo-icon-42849-Windows.ico) and set it as the icon in properties.
+4. To change the icon create a shortcut to the CSGO.bat, download the csgo-icon included (csgoIcon.ico) and set it as the icon in properties.
