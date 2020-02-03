@@ -4,7 +4,7 @@
 
 This script will print a message to cs go chat every time you get a headshot. This program only works in game modes with rounds. 
 
-This script utilizes Counter Strike's "Game State Integration" a method of triggering external systems from in-game events by sending packets of data to a given endpoint. To read more about Game State Integration visit the official Valve page https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration. 
+This script utilizes Counter Strike's "Game State Integration" a method of triggering external systems from in-game events by sending packets of data to a given endpoint. Interfacing directly with Couter-Strike game chat is both difficult and may be deemed cheating by Valve. Instead, this script detects when a player gets a headshot in-game then presses the "p" key on the keyboard. If the player has bound the "p" key to print a message in Counter-Strike (as detailed in install instructions) then a message will be printed to game chat. To read more about Game State Integration visit the official Valve page https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration. 
 
 While this script uses 
 Game State Integration for a small purpose, Game State Integration is used in tournaments as a means of controlling physical elements of the tournament such as sounds, and stage lighting. I made this script as a fun project my friends and I could use during a time when we were playing a lot of Counter-Strike
