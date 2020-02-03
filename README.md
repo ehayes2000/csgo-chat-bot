@@ -11,6 +11,8 @@ Game State Integration for a small purpose, Game State Integration is used in to
 
 Install instructions are targetted at a user who has little to no experience working with python or Counter-Strike game files.
 
+Heres a clip of the program working (the message is printed to the bottom left corner)
+![Alt Text](https://github.com/ehayes2000/wig_splitters/blob/master/wig-splitters-demo.gif)
 
 **Install Instructions (no python installed)** * *Recommened* *
 
