@@ -27,8 +27,8 @@ Install instructions are targetted at a user who has little to no experience wor
 **Install Instructions (with Python installed)**
 
 1. Do steps 2 - 5 of Install Instructions no python installed
-2. Install flask via "pip install flask" in cmd
-3. Install keyboard via "pip install keyboard" in cmd
+2. Install flask via "pip install flask" in a terminal
+3. Install keyboard via "pip install keyboard" in a terminal
 4. Run wig_splitters.py 
 
 **To autorun with CSGO**
